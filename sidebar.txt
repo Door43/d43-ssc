@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ssc:home|Door43 (ssc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ssc|d43-ssc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ssc/archive/master.zip|d43-ssc.zip]]
+
+**Recent Changes**
+{{changes>ns = ssc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ssc|Ethnologue data]]
+
